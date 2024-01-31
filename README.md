@@ -1,1 +1,2 @@
-This is JavaScript Basics to Advenced
+This is JavaScript Basics to Advanced.
+
